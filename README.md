@@ -1,2 +1,1 @@
-# AllCodingProjects-ACP- I'm gonna make this as short as I possibly can!
-Nevermind I lied, this took centuries to type.
+# AllCodingProjects-ACP- Hi, I hope you have a roof over your head.
