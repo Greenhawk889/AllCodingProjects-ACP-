@@ -1,6 +1,7 @@
 # My first coding project on Github! :)
-
+#THIS IS NOT THE FINISHED PRODUCT!!
 # It's a philosophy game, it has a boring graphical interface since I couldn't get the most of the backgrounds to work properly, so I decided to not waste time on something dumb like that. 
+#Basically I want the player to select a philsopher out of 30 other ones and answer 10 questions based on the philsopher they selected
 # Bored...
 
 
